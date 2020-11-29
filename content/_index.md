@@ -31,5 +31,3 @@ I've been coding professionally for 12 years, and coding recreationally for over
 # Apply
 
 I'd love to help everyone but unfortunately I have a limited amount of time. Please fill out the form below and I'll get back to you.  I promise to not sell/give your info away!
-
-<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true")" width="640" height="974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
