@@ -11,6 +11,7 @@ header_button_more:
   url: "#the-future---today"
   title: Why this is awesome?
 teaser_image: "/me.jpg"
+draft: true
 
 ---
 # The Future - Today!
