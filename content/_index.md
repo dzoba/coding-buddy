@@ -3,7 +3,7 @@ header_brand: Coding Buddy
 header_tagline_paragraph: I'll be your accountability partner to make sure you make
   progress on your side projects.  Having an accountability partner will help you
   stop procrastinating.  Plus, I've been coding professionally for over 12 years (and
-  recreationally for over 20) so I can help get you by roadblocks.
+  recreationally for over 20) so I can help you get by roadblocks.
 header_button_cta:
   url: https://chris454928.typeform.com/to/G4rknA4t
   title: Apply
