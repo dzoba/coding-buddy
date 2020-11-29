@@ -7,10 +7,10 @@ header_tagline_paragraph: I'll be your accountability partner to make sure you m
 header_button_cta:
   url: https://chris454928.typeform.com/to/G4rknA4t
   title: Apply
+teaser_image: "/me.jpg"
 draft: true
 
 ---
-
 <img src="/static/me.png" style="border-radius: 50%; border: 10px solid #fff; margin: 2em 3em; width: 300px; height: 300px; margin-left: auto;  margin-right: auto;">
 
 # How it works
