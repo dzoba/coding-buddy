@@ -31,3 +31,5 @@ I've been coding professionally for 12 years, and coding recreationally for over
 # Apply
 
 I'd love to help everyone but unfortunately I have a limited amount of time. Please fill out the form below and I'll get back to you.  I promise to not sell/give your info away!
+
+You can apply [here](https://chris454928.typeform.com/to/G4rknA4t "here")
