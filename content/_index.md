@@ -8,9 +8,9 @@ header_button_cta:
   url: "#contact-form"
   title: Apply
 header_button_more:
-  url: "#the-future---today"
-  title: Why this is awesome?
-teaser_image: "/images/teaser.jpg"
+  url: https://chris454928.typeform.com/to/G4rknA4t
+  title: Apply
+teaser_image: "/me.jpg"
 draft: true
 
 ---
