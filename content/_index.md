@@ -1,15 +1,18 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: Coding Buddy
+header_tagline_paragraph: I'll be your accountability partner to make sure you make
+  progress on your side projects.  Having an accountability partner will help you
+  stop procrastinating.  Plus, I've been coding professionally for over 12 years (and
+  recreationally for over 20) so I can help get you out of roadblocks.
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: Get in touch
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
----
+  title: Why this is awesome?
+teaser_image: "/me.jpg"
 
+---
 # The Future - Today!
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
