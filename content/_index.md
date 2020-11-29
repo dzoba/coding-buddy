@@ -18,36 +18,18 @@ draft: true
 
 Typically, we'll set up weekly calls that last for a couple of hours.  We'll work together on your project during those calls.  The work can be coding, planning, design, whatever you need help with to make progress.
 
-***
-
-# Prototype
-
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
-
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
-
-Check out this sweet preview. Impressed much, are you?
+I'll record and invoice the time we work together and send out invoices on a regular schedule.
 
 ***
 
-# Imprint & Privacy Policy
+# My experience
 
-Let's keep it simple. This is our contact information:
-
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+I've been coding professionally for 12 years, and coding recreationally for over 20.  I've run a team of over 20 engineers, and launched many apps.  I'm good at planning and organization.  I'm good at psychology and motivating people.  I'm good at rounding off a product so it actually ships.  Technically, I'm good at Javascript (React and React Native), however even if your project isn't Javascript I can still benefit since my main purpose is accountability.
 
 ***
 
-# Stay in touch
+# Apply
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+I'd love to help everyone but unfortunately I have a limited amount of time. Please fill out the form below and I'll get back to you.  I promise to not sell/give your info away!
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSfyIzo9BbDdKMZ24lQe6ifVGOfqfvjidTWNnKfcp_a9W50sIg/viewform?embedded=true")" width="640" height="974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
