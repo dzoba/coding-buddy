@@ -11,7 +11,7 @@ draft: true
 
 ---
 
-<img src="/static/me.png" style="border-radius: 50%; border: 10px solid #fff; margin: 2em 3em; width: 300px; height: 300px; margin-left: auto;  margin-right: auto;">
+<img src="/me.png" style="border-radius: 50%; border: 10px solid #fff; margin: 2em 3em; width: 300px; height: 300px; margin-left: auto;  margin-right: auto;">
 
 # How it works
 
