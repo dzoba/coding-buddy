@@ -1,5 +1,5 @@
 ---
-header_brand: Coding Buddy
+header_brand: Coding Pal
 header_tagline_paragraph: I'll be your accountability partner to make sure you make
   progress on your side projects.  Having an accountability partner will help you
   stop procrastinating.  Plus, I've been coding professionally for over 12 years (and

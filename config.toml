@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Coding Buddy"
+title = "Coding Pal"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
@@ -18,7 +18,7 @@ title = "Coding Buddy"
         [markup.goldmark.renderer]
             hardWraps = true
             unsafe = true
-            
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -39,7 +39,7 @@ title = "Coding Buddy"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Coding Buddy"
+    title = "Coding Pal"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
