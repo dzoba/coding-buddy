@@ -7,6 +7,7 @@ header_tagline_paragraph: I'll be your accountability partner to make sure you m
 header_button_cta:
   url: https://chris454928.typeform.com/to/G4rknA4t
   title: Apply
+teaser_image: "/me.jpg"
 draft: true
 
 ---
