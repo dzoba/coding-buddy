@@ -12,17 +12,17 @@ draft: true
 ---
 <img src="/me.jpg" style="border-radius: 50%; border: 10px solid #fff; margin: 2em 3em; width: 300px; height: 300px; margin-left: auto;  margin-right: auto;">
 
+# My experience
+
+I've been coding professionally for 12 years, and coding recreationally for over 20.  I've run a team of over 20 engineers, and launched many apps.  I'm good at planning and organization.  I'm good at psychology and motivating people.  I'm good at rounding off a product so it actually ships.  Technically, I'm good at Javascript (React and React Native), however even if your project isn't Javascript I can still benefit since my main purpose is accountability.
+
+***
+
 # How it works
 
 Typically, we'll set up weekly calls that last for a couple of hours.  We'll work together on your project during those calls.  The work can be coding, planning, design, whatever you need help with to make progress.
 
 I'll record and invoice the time we work together and send out invoices on a regular schedule.
-
-***
-
-# My experience
-
-I've been coding professionally for 12 years, and coding recreationally for over 20.  I've run a team of over 20 engineers, and launched many apps.  I'm good at planning and organization.  I'm good at psychology and motivating people.  I'm good at rounding off a product so it actually ships.  Technically, I'm good at Javascript (React and React Native), however even if your project isn't Javascript I can still benefit since my main purpose is accountability.
 
 ***
 
