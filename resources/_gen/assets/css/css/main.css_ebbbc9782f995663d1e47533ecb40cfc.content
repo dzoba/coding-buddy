@@ -95,11 +95,6 @@ Add the correct text decoration in Chrome, Edge, and Safari.
 Add the correct font weight in Edge and Safari.
 */
 
-
-strong {
-  font-weight: bolder;
-}
-
 /**
 1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
 2. Correct the odd 'em' font sizing in all browsers.
@@ -133,9 +128,7 @@ Forms
 2. Remove the margin in Firefox and Safari.
 */
 
-button,
-input,
-textarea {
+button {
   font-family: inherit; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
@@ -322,23 +315,6 @@ img {
   border-style: solid;
 }
 
-textarea {
-  resize: vertical;
-}
-
-input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #cbd5e0;
-}
-
-input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  color: #cbd5e0;
-}
-
-input::placeholder,
-textarea::placeholder {
-  color: #cbd5e0;
-}
-
 button {
   cursor: pointer;
 }
@@ -366,9 +342,7 @@ a {
  * normalize.css.
  */
 
-button,
-input,
-textarea {
+button {
   padding: 0;
   line-height: inherit;
   color: inherit;
@@ -419,11 +393,6 @@ img {
   font-weight: 500;
 }
 
-.prose strong {
-  color: #1a202c;
-  font-weight: 600;
-}
-
 .prose hr {
   border-color: #edf2f7;
   border-top-width: 1px;
@@ -469,16 +438,6 @@ img {
 
 /* Tailwind's utility classes - generated based on config file */
 
-.appearance-none {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-}
-
-.bg-transparent {
-  background-color: transparent;
-}
-
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -489,19 +448,9 @@ img {
   background-color: rgba(247, 250, 252, var(--tw-bg-opacity));
 }
 
-.bg-gray-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgba(45, 55, 72, var(--tw-bg-opacity));
-}
-
 .bg-teal-500 {
   --tw-bg-opacity: 1;
   background-color: rgba(56, 178, 172, var(--tw-bg-opacity));
-}
-
-.hover\:bg-gray-200:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgba(237, 242, 247, var(--tw-bg-opacity));
 }
 
 .hover\:bg-teal-600:hover {
@@ -509,45 +458,16 @@ img {
   background-color: rgba(49, 151, 149, var(--tw-bg-opacity));
 }
 
-.border-teal-500 {
-  --tw-border-opacity: 1;
-  border-color: rgba(56, 178, 172, var(--tw-border-opacity));
-}
-
 .rounded-lg {
   border-radius: 0.5rem;
-}
-
-.border-none {
-  border-style: none;
-}
-
-.border-t {
-  border-top-width: 1px;
 }
 
 .flex {
   display: flex;
 }
 
-.grid {
-  display: grid;
-}
-
-.hidden {
-  display: none;
-}
-
-.flex-col {
-  flex-direction: column;
-}
-
 .justify-start {
   justify-content: flex-start;
-}
-
-.flex-shrink-0 {
-  flex-shrink: 0;
 }
 
 .font-medium {
@@ -571,22 +491,9 @@ img {
   line-height: 1.625;
 }
 
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.mr-3 {
-  margin-right: 0.75rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
 }
 
 .mt-6 {
@@ -595,10 +502,6 @@ img {
 
 .mb-6 {
   margin-bottom: 1.5rem;
-}
-
-.mt-12 {
-  margin-top: 3rem;
 }
 
 .max-w-3xl {
@@ -613,30 +516,6 @@ img {
   min-height: 100vh;
 }
 
-.focus\:outline-none:focus {
-  outline: 2px solid transparent;
-  outline-offset: 2px;
-}
-
-.p-2 {
-  padding: 0.5rem;
-}
-
-.py-1 {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
-}
-
-.py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
-.px-2 {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -647,26 +526,9 @@ img {
   padding-right: 1rem;
 }
 
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-
-.pt-4 {
-  padding-top: 1rem;
-}
-
-.pb-6 {
-  padding-bottom: 1.5rem;
-}
-
-.pb-10 {
-  padding-bottom: 2.5rem;
 }
 
 .pt-12 {
@@ -702,11 +564,6 @@ img {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.shadow-lg {
-  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
 * {
   --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
   --tw-ring-offset-width: 0px;
@@ -730,16 +587,6 @@ img {
   color: rgba(113, 128, 150, var(--tw-text-opacity));
 }
 
-.text-gray-700 {
-  --tw-text-opacity: 1;
-  color: rgba(74, 85, 104, var(--tw-text-opacity));
-}
-
-.text-gray-800 {
-  --tw-text-opacity: 1;
-  color: rgba(45, 55, 72, var(--tw-text-opacity));
-}
-
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -751,10 +598,6 @@ img {
 
 .w-full {
   width: 100%;
-}
-
-.grid-cols-1 {
-  grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
 @keyframes spin {
@@ -890,10 +733,6 @@ img {
 
 @media (min-width: 768px) {
 
-  .md\:block {
-    display: block;
-  }
-
   .md\:justify-center {
     justify-content: center;
   }
@@ -937,14 +776,6 @@ img {
 
   .md\:text-center {
     text-align: center;
-  }
-
-  .md\:gap-10 {
-    gap: 2.5rem;
-  }
-
-  .md\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 

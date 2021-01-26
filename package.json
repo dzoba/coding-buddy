@@ -7,7 +7,7 @@
   "scripts": {
     "test": "prettier --check . ",
     "format": "prettier --write . ",
-    "update-live-site": "rm -rf public/; hugo; firebase deploy"
+    "update-live-site": "rm -rf public/; hugo -v --debug -D; firebase deploy"
   },
   "repository": {
     "type": "git",
