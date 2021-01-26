@@ -6,7 +6,8 @@
   "main": "postcss.config.js",
   "scripts": {
     "test": "prettier --check . ",
-    "format": "prettier --write . "
+    "format": "prettier --write . ",
+    "update-live-site": "rm -rf public/; hugo; firebase deploy"
   },
   "repository": {
     "type": "git",
